@@ -1,0 +1,124 @@
+h1{
+    color: white;
+    font-family: Arial;
+
+    margin-left: 60px;
+    margin-top: 30px;
+    padding-top: 35px;
+
+    
+}
+
+h2{
+    color: white;
+    font-family: Arial;
+
+    margin-top: 50px;
+    margin-left: 60px;
+    
+}
+
+.p1{
+    color: rgb(139, 139, 139);
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 12px;
+    font-family: Arial;
+    padding-right: 105px;
+    
+}
+
+
+h3{
+    color: white;
+    font-family: Arial;
+    margin: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+
+    /* margin-top: 20px;
+    margin-left: 210px; */
+    
+}
+
+h4{
+    color: white;
+    font-family: Arial;
+    margin: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+
+    /* margin-top: 20px;
+    margin-left: 210px; */
+    
+}
+
+h5{
+    color: white;
+    font-family: Arial;
+    margin: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+
+    /* margin-top: 20px;
+    margin-left: 230px; */
+    
+    
+}
+
+.p2{
+    color: rgb(139, 139, 139);
+    font-family: Arial;
+    padding-top: 2px;
+    padding-left: 15px;
+
+
+    /* margin-left: 60px;
+    margin-top: 20px;
+    font-size: 12px; */
+    
+
+}
+
+
+body{
+    background-color: white;
+}
+
+div{
+    background-color:rgb(39,39,39);
+    width: 1000px;
+    margin: auto;
+}
+
+#img{
+    display: block;
+    margin: auto;
+    width: 250px;
+    border: 4px solid white;
+}
+
+button{
+    
+    color: white;
+    background-color: rgb(32,152,245);
+    padding: 9px;
+    width: 90px;
+    height: 35px;
+    margin-left: 15px;
+    border: none;
+    font-size: 18px;
+}
+
+.item{
+    width: 270px;
+    /* background-color: brown;  - для себе*/
+    display: inline-block;
+    padding-bottom: 6px;
+    margin-left: 45px;
+    height: 450px;
+    vertical-align: top;
+}
